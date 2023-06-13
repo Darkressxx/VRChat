@@ -1,4 +1,4 @@
-[ESPAÑOL](README-Español)
+[ESPAÑOL](README-Español.md)
 
 # Scripts and Resources
 
