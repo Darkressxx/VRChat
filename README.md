@@ -1,3 +1,5 @@
+[ESPAÑOL](README-Español)
+
 # Scripts and Resources
 
 This repository is a personal collection of custom scripts and resources specifically designed for VRChat's UdonSharp. UdonSharp is a programming language and runtime for VRChat that allows for more advanced interactions and gameplay mechanics within the VRChat world.
